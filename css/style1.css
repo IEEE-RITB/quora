@@ -1,0 +1,173 @@
+#a{
+	width: 15px;
+	margin-left: 5%;
+
+}
+.img-circle{
+	height: 60px!important;
+	width: 60px!important;
+	margin: 10%;
+}
+body{
+	background-color: #f4f4f4!important;
+}
+#menu div{
+    padding: 2px;
+    font-family: Baskerville Old Face;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 2px;
+    text-shadow: 5px 5px 10px #b92b27, 0 0 25px #b92b27, 0 0 5px #b92b27;
+}
+#menu2{
+	height: 35px;
+	float: right;
+}
+.photo div p{
+	font-size: 12px;
+	color: #555;
+	text-align: center;
+	padding-left: 3px;
+}
+.photo{
+	border: 1px solid #e2e2e2;
+	padding-left: 0px!important; padding-right: 0px!important;
+    height: 200px;
+    margin: 0px;
+}
+#logo{
+	position: fixed;
+    top: 2px;
+    left: 10px;
+    height: 40px;
+    z-index: 1000;
+}
+#logo2{
+	height: 35px;
+	position: fixed;
+	top: 5px;
+    left: 10px;
+    z-index: 1000;
+}
+
+#m:hover{
+		border-bottom: 2px solid #b92b27;
+		margin-bottom: 0px;	
+}
+.sec_head{
+	
+	text-align: right;
+/*	font-size: 50px!important; */
+  /*  margin: 50px 30px 10px 0px;*/
+    font-family: Baskerville Old Face;
+	color: white;
+	font-weight: bold;
+	text-shadow: 5px 5px 10px #b92b27, 0 0 25px #b92b27, 0 0 5px #b92b27;
+}
+.sec_p{
+	text-align: right;
+	font-size: 20px;
+/*	margin: 50px 30px 10px 0px; */
+	font-family: Baskerville Old Face;
+	color: #b92b27;
+	font-weight: bold;
+	margin-top: -10px;
+	text-shadow: 5px 5px 10px white, 0 0 25px white, 0 0 5px white;
+}
+
+.table>thead>tr>th {
+    border-bottom: 2px solid #b92b27!important; 
+}
+.table-striped>tbody>tr:nth-of-type(odd) {
+    background-color: rgba(185, 43, 39, 0.09)!important;
+}
+.cont{
+/*	width:80% !important; margin-left: 13%; */
+	text-align: justify;
+	font-family: serif!important;
+	border:1px solid #e2e2e2;
+	box-shadow: 3px 3px 5px gray;
+    background-color: white;
+
+}
+.title{
+/*	width: 80% !important;
+    margin-left: 13%; */
+    padding-top: 5%;
+    margin-top: 1%;
+    margin-bottom: 0.5%;
+
+    
+}
+#timer{
+	color: white;
+    font-family: initial;
+    text-align: center;
+    text-shadow: 3px 3px 5px #b92b27;
+}
+#message{
+	color: white;
+    font-family: initial;
+    text-align: center;
+    text-shadow: 3px 3px 5px blue;
+}
+#CDTimer{
+	border: 1px solid black;
+  /*  height: 17%;
+    width: 40%;*/
+    box-shadow: 2px 2px 5px;
+    position: absolute;
+    top: 40%;
+    left: 8%;
+}
+#cal{ 
+	width: 200px;
+	min-width: 150px;
+	border:1px 
+	solid #f9f9f9; 
+	float: right;
+}
+a{
+	color: #b92b27!important;
+}
+a:hover{
+	text-decoration: none!important;
+}
+h4{
+	font-weight: bolder!important;
+	font-family: Baskerville Old Face!important;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 2px solid #c00 !important;
+    margin-bottom: 2%!important;
+    margin-left: 20%!important;
+    padding: 0; 
+}
+
+
+/*
+		@media only screen and (max-width: 768px) {
+   		 #menu {
+       		 display: none;
+    		}
+}
+*/
+#section_1{
+	border: 0px 1px 1px 0px solid #b92b27;
+	width: 100%!important;
+	padding: 0px;
+	margin: 0px;
+} 
+.c{
+	background: url("bg1.png") no-repeat center center fixed;
+	background-size: cover;
+	height:100%;
+	padding: 5px;
+	min-height: 500px;
+	} 
