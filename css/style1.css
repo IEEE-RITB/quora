@@ -11,6 +11,7 @@
 body{
 	background-color: #f4f4f4!important;
 }
+
 #menu div{
 
     padding: 5px;
@@ -20,8 +21,8 @@ body{
     text-align: center;
     font-weight: bold;
     margin-bottom: 2px;
-    
     box-shadow: 1px 1px 3px gray;
+
 }
 #menu2{
 	height: 35px;
@@ -68,7 +69,7 @@ body{
 #logo2{
 	height: 35px;
 	position: fixed;
-	top: 10px;
+	top: 3px;
     left: 13px;
     z-index: 1000;
 }
