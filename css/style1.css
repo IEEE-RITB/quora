@@ -4,15 +4,15 @@
 
 }
 .img-circle{
-	height: 60px!important;
-	width: 60px!important;
+	height: 40px!important;
+	width: 40px!important;
 	margin: 10%;
 }
 body{
 	background-color: #f4f4f4!important;
 }
 #menu div{
-    padding: 2px;
+    padding: 5px;
     font-family: Baskerville Old Face;
     font-size: 25px;
     color: white;
@@ -31,11 +31,27 @@ body{
 	text-align: center;
 	padding-left: 3px;
 }
+.photoN div p{
+	font-size: 12px;
+	color: #555;
+	text-align: center;
+	padding-left: 3px;
+}
+.photoN div{
+	margin-top: 2px!important;
+}
 .photo{
 	border: 1px solid #e2e2e2;
 	padding-left: 0px!important; padding-right: 0px!important;
     height: 200px;
     margin: 0px;
+}
+.photoN{
+	border: 1px solid #e2e2e2;
+	padding-left: 0px!important; padding-right: 0px!important;
+    height: 70px;
+    margin: 0px;
+    margin-top: 2px!important;
 }
 #logo{
 	position: fixed;
@@ -133,6 +149,9 @@ a{
 	color: #b92b27!important;
 }
 a:hover{
+	text-decoration: none!important;
+}
+a:click{
 	text-decoration: none!important;
 }
 h4{

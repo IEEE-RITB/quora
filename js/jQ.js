@@ -1,8 +1,8 @@
 
 $(document).ready(function(){
 //alert($(window).width());
-var size= $("#CDTimer").width()*0.1;
-var size2= $("#CDTimer").width()*0.05;
+var size= $("#CDTimer").width()*0.09;
+var size2= $("#CDTimer").width()*0.04;
 var size3,size4;
 var size_cover=$("#section_1").width();
 $("#timer").css("font-size",size);
