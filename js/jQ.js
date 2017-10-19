@@ -15,6 +15,7 @@ if ($(window).width() < 768) {
 	size3= $(".sec_head").width()*0.09;
     size4= $(".sec_p").width()*0.05;
     menu_font=$("#menu div").width()*0.2;
+    $("#team>.cont>div").css("margin-left","8.333333333%");
     $("#menu div").css({"font-size":menu_font,"text-shadow":"1px 1px 3px #b92b27, 0 0 10px #b92b27, 0 0 2px #b92b27"});
     $("#CDTimer").css("top","45%");
 	$(".cont").css({"padding":"5px 0px","font-size":"12px"});
