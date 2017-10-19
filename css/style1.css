@@ -42,13 +42,12 @@ body{
 	padding-left: 3px;
 }
 .photoN div{
-	margin-top: 2px!important; margin:0px;
+	margin-top: 2px!important;
 }
 .photoN{
 	border: 1px solid #e2e2e2;
 	padding-left: 0px!important; padding-right: 0px!important;
     height: 70px;
-    margin: 0px;
     margin-top: 2px!important;
 }
 
@@ -113,6 +112,10 @@ body{
 	box-shadow: 3px 3px 5px gray;
     background-color: white;
 
+}
+
+.pName{
+	color:#b92b27; font-size: 16px; font-weight: bold; font-family: Baskerville Old Face;
 }
 .title{
 /*	width: 80% !important;
